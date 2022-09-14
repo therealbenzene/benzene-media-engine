@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "main",
+    "base",
+    "publishers",
+    "providers",
+    "transcoder",
+]
